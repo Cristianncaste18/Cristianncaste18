@@ -1,8 +1,9 @@
 ### Hi there 👋
-:man_student: 10th semester student of Science and Systems engineering at Universidad de San Carlos de Guatemala
-:cloud: AWS Certified Solution Architect - Associate
-🌱 I’m currently studying for the AWS Certified Developer - Asssociate and AWS Certified SysOps Administrator - Associate 
-:whale: Fan of Docker and Kubernetes, someday I want to achieve the certifications CKDA y CKA.
+:man_student: 10th semester student of Science and Systems engineering at Universidad de San Carlos de Guatemala  
+:cloud: AWS Certified Solution Architect - Associate  
+🌱 I’m currently studying for the AWS Certified Developer - Asssociate and AWS Certified SysOps Administrator - Associate   
+:whale: Fan of Docker and Kubernetes, someday I want to achieve the certifications CKDA y CKA.  
+⚡ Fun fact: I'm a fan of the tv series. :dragon_face::fire:
 
 <!--
 **Cristianncaste18/Cristianncaste18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
