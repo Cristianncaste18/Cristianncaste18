@@ -1,9 +1,10 @@
 ### Hi there 👋
 :man_student: I'm a 10th semester student of Science and Systems engineering at Universidad de San Carlos de Guatemala  
+:cloud: AWS Certified Cloud Practitioner 
 :cloud: AWS Certified Solution Architect - Associate  
 :cloud: AWS Certified Developer - Asssociate  
 🌱 I’m currently studying for AWS Certified SysOps Administrator - Associate and AWS Certified Solution Architect - Professional  
-:whale: Fan of Docker and Kubernetes, someday I want to achieve the certifications CKDA y CKA.  
+:whale: Fan of Docker and Kubernetes, I want to achieve the certifications CKDA y CKA.  
 ⚡ Fun fact: I'm a fan of the tv series. :dragon_face::fire:
 
 <!--
