@@ -1,6 +1,6 @@
 ### Hi there 👋
 :man_student: I'm a 10th semester student of Science and Systems engineering at Universidad de San Carlos de Guatemala  
-:cloud: AWS Certified Cloud Practitioner  
+:cloud: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/2526d201-e956-46c8-9143-8b65064e7e20/public_url)  
 :cloud: AWS Certified Solution Architect - Associate  
 :cloud: AWS Certified Developer - Asssociate  
 🌱 I’m currently studying for AWS Certified SysOps Administrator - Associate and AWS Certified Solution Architect - Professional  
