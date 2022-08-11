@@ -1,8 +1,8 @@
 ### Hi there 👋
 :man_student: I'm a 10th semester student of Science and Systems engineering at Universidad de San Carlos de Guatemala  
 :cloud: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/2526d201-e956-46c8-9143-8b65064e7e20/public_url)  
-:cloud: AWS Certified Solution Architect - Associate  
-:cloud: AWS Certified Developer - Asssociate  
+:cloud: [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/040b04cd-502e-4b25-991f-de1a58123339/public_url)  
+:cloud: [AWS Certified Developer - Asssociate](https://www.credly.com/badges/3c13c7ac-e21d-4836-9cfd-2b0ec83421d8/public_url)  
 🌱 I’m currently studying for AWS Certified SysOps Administrator - Associate and AWS Certified Solution Architect - Professional  
 :whale: Fan of Docker and Kubernetes, I want to achieve the certifications CKDA y CKA.  
 ⚡ Fun fact: I'm a fan of the tv series. :dragon_face::fire:
