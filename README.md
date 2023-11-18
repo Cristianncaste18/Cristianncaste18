@@ -1,5 +1,5 @@
 ### Hi there 👋
-:man_student: I'm a 10th semester student of Science and Systems engineering at Universidad de San Carlos de Guatemala  
+:man_student: I've closed pensum in Science and Systems engineering at Universidad de San Carlos de Guatemala  
 :cloud: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/2526d201-e956-46c8-9143-8b65064e7e20/public_url)  
 :cloud: [AWS Certified Solution Architect - Associate](https://www.credly.com/badges/040b04cd-502e-4b25-991f-de1a58123339/public_url)  
 :cloud: [AWS Certified Developer - Asssociate](https://www.credly.com/badges/3c13c7ac-e21d-4836-9cfd-2b0ec83421d8/public_url)  
